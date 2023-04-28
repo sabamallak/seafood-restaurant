@@ -1,5 +1,5 @@
 import "./App.css";
-import logo from "./assets/logo.png";
+import logo from "./assets/goldB.jpg";
 import people from "./assets/happytable.jpg";
 import people2 from "./assets/people2.jpg";
 import fish from "./assets/fish.jpg";
